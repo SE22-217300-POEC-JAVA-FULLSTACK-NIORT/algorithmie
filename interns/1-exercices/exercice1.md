@@ -6,7 +6,10 @@
 
 ## Algorithme à décripter
 
-1. Indiquez les différentes valeurs prises par les variables et le resultat de la fonction ecrire au cours de l'algorithme suivant.
+![ex11](./img/exercice11.png)
+![ex12](./img/exercice12.png)
+
+<!-- 1. Indiquez les différentes valeurs prises par les variables et le resultat de la fonction ecrire au cours de l'algorithme suivant.
 
 > `Algorithme prix-hors-taxe`
 > `variables`
@@ -34,4 +37,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;`ecrire(nb2 = nb2)`
 &nbsp;&nbsp;&nbsp;&nbsp;`ecrire ((nb2 >= nb2) ET (nb2 < nb1))`
 &nbsp;&nbsp;&nbsp;&nbsp;`ecrire ((nb2 >= nb2) OU (nb2 < nb1))`
-`Fin`
+`Fin` -->
