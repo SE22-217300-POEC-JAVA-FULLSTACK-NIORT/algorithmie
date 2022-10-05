@@ -1,6 +1,7 @@
 # Correction exercice 1
 
-1. Indiquez les différentes valeurs prises par les variables au cours du algorithme suivant.
+![correction](img/correction.png)
+<!-- 1. Indiquez les différentes valeurs prises par les variables au cours du algorithme suivant.
 
 > `Algorithme prix-hors-taxe`
 
@@ -30,4 +31,4 @@
     `ecrire(nb2 = nb2)` // 20 = 20 => true
     `ecrire ((nb2 >= nb2) ET (nb2 < nb1))` // 20 >= 20 (true) ET 20 < 11 (false) => true ET false donne false
     `ecrire ((nb2 >= nb2) OU (nb2 < nb1))` // 20 >= 20 (true) OU 20 < 11 (false) true ou false donne true
-`Fin`
+`Fin` -->
